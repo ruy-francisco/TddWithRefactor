@@ -1,0 +1,6 @@
+C:\Users\ruy\Documents\Training\CSharp\TddWithRefactor\StronglyCoupled\bin\Debug\StronglyCoupled.dll
+C:\Users\ruy\Documents\Training\CSharp\TddWithRefactor\StronglyCoupled\bin\Debug\StronglyCoupled.pdb
+C:\Users\ruy\Documents\Training\CSharp\TddWithRefactor\StronglyCoupled\obj\Debug\StronglyCoupled.csprojAssemblyReference.cache
+C:\Users\ruy\Documents\Training\CSharp\TddWithRefactor\StronglyCoupled\obj\Debug\StronglyCoupled.csproj.CoreCompileInputs.cache
+C:\Users\ruy\Documents\Training\CSharp\TddWithRefactor\StronglyCoupled\obj\Debug\StronglyCoupled.dll
+C:\Users\ruy\Documents\Training\CSharp\TddWithRefactor\StronglyCoupled\obj\Debug\StronglyCoupled.pdb
