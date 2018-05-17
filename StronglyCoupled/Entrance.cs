@@ -18,7 +18,6 @@ namespace StronglyCoupled
         {
             var age = _infoChecker.GetAgeByCPF(cpf);
             return age > 18;
-        }       
-
+        }
     }
 }

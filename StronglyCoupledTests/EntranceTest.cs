@@ -1,21 +1,22 @@
 ﻿using StronglyCoupled;
 using System;
-using Xunit;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using FluentAssertions;
 
 namespace StronglyCoupledTests
 {
+    [TestClass]
     public class EntranceTest
     {
         private readonly Entrance _entrance;
 
         public EntranceTest() => _entrance = new Entrance();
 
-        [Theory]
-        [InlineData("123456789")]
-        public void AmIAdult_Test(string cpf)
+        [TestMethod]
+        public void AmIAdult_Should_ReturnTrue()
         {
-            var isAdult = _entrance.AmIAdult(cpf);
-            Assert.True(isAdult);
+            var isAdult = _entrance.AmIAdult("123456789");
+            isAdult.Should().BeTrue();
         }
     }
 }

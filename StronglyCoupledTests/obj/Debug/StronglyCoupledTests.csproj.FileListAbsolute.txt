@@ -33,3 +33,6 @@ C:\Users\ruy\Documents\Training\CSharp\TddWithRefactor\StronglyCoupledTests\obj\
 C:\Users\ruy\Documents\Training\CSharp\TddWithRefactor\StronglyCoupledTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
 C:\Users\ruy\Documents\Training\CSharp\TddWithRefactor\StronglyCoupledTests\bin\Debug\xunit.runner.reporters.net452.dll
 C:\Users\ruy\Documents\Training\CSharp\TddWithRefactor\StronglyCoupledTests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\ruy\Documents\Training\CSharp\TddWithRefactor\StronglyCoupledTests\bin\Debug\FluentAssertions.dll
+C:\Users\ruy\Documents\Training\CSharp\TddWithRefactor\StronglyCoupledTests\bin\Debug\FluentAssertions.pdb
+C:\Users\ruy\Documents\Training\CSharp\TddWithRefactor\StronglyCoupledTests\bin\Debug\FluentAssertions.xml
